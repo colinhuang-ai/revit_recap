@@ -1,0 +1,5 @@
+# Revit models (including backups like *.0001.rvt)
+*.rvt
+
+# ReCap point clouds
+*.rcs
